@@ -1,12 +1,6 @@
 # UnityGame_PiratesVsZombies
 
 
-## 📹 GamePlay Video
-
-[![Watch Demo Video](https://img.shields.io/badge/▶%20Watch-Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=aHiT0sbLE3I)
-
----
-
 ## 📜 Description
 This is a 3D adventure game built in Unity.  
 The player explores a pirate island, collects coins, interacts with NPCs, fights enemies, and progresses through different scenes using portals.
