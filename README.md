@@ -3,7 +3,7 @@
 
 ## 📜 Description
 This is a 3D adventure game built in Unity.  
-The player explores a pirate island, collects coins, interacts with NPCs, fights enemies, and progresses through different scenes using portals.
+The player explores a pirate island, collects coins, interacts with NPCs, fights enemies, and progresses through different worlds, including a naval escape phase.
 
 ---
 
@@ -16,7 +16,7 @@ Watch the gameplay here:
 ---
 
 ## 🎮 Gameplay
-- Explore island, cabins, and environments  
+- Explore island, cabins, waterfalls, and environments  
 - Collect coins (displayed on screen)  
 - Talk to NPCs and receive hints  
 - Enter portals to new areas  
@@ -26,7 +26,15 @@ Watch the gameplay here:
 - Trigger alarm system after collecting key  
 - Open treasure chest (+100 coins)  
 - Buy bow & arrow from shop  
-- Travel between scenes  
+
+### 🚢 Ship & Escape Phase
+- Enter a cave leading to the sea  
+- Board a ship using a wooden plank  
+- Escape with the treasure  
+- Use a side camera / mini-map for navigation  
+- Encounter enemy ships  
+- Enemy ships throw bombs  
+- Player can attack back using projectiles  
 
 ---
 
@@ -37,9 +45,10 @@ Watch the gameplay here:
 - Coin collection + UI  
 - Key system + alarm trigger  
 - Shop system (buy weapons)  
+- Ship mechanics & naval combat  
+- Mini-map / side camera system  
 - Scene transitions with portals  
 - Persistent data between scenes  
-
 
 ---
 
@@ -60,6 +69,7 @@ The project demonstrates Unity skills including:
 - AI behavior  
 - UI systems  
 - Scene management  
-- Game logic architecture  
+- Combat mechanics  
+- Naval gameplay  
 
 ---
