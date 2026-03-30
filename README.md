@@ -9,6 +9,8 @@ The player explores a pirate island, collects coins, interacts with NPCs, fights
 
 ## 📹 GamePlay Video
 
+Watch the gameplay here:
+
 [![Watch Demo Video](https://img.shields.io/badge/▶%20Watch-Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=aHiT0sbLE3I)
 
 ---
